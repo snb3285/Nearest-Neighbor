@@ -1,0 +1,163 @@
+Current feature set: {}
+Accuracy: 18.4%
+
+Currently on search tree level 1
+Consider adding feature 1
+Accuracy of feature set {1} is 71.2%
+Consider adding feature 2
+Accuracy of feature set {2} is 83%
+Consider adding feature 3
+Accuracy of feature set {3} is 67%
+Consider adding feature 4
+Accuracy of feature set {4} is 66.4%
+Consider adding feature 5
+Accuracy of feature set {5} is 67.5%
+Consider adding feature 6
+Accuracy of feature set {6} is 67%
+Consider adding feature 7
+Accuracy of feature set {7} is 65.8%
+Consider adding feature 8
+Accuracy of feature set {8} is 69.7%
+Consider adding feature 9
+Accuracy of feature set {9} is 67.1%
+Consider adding feature 10
+Accuracy of feature set {10} is 66.5%
+Added feature 2 to the current feature set
+Current feature set: {2}
+Accuracy: 83%
+
+Currently on search tree level 2
+Consider adding feature 1
+Accuracy of feature set {2, 1} is 86.1%
+Consider adding feature 3
+Accuracy of feature set {2, 3} is 81.1%
+Consider adding feature 4
+Accuracy of feature set {2, 4} is 84.7%
+Consider adding feature 5
+Accuracy of feature set {2, 5} is 79.7%
+Consider adding feature 6
+Accuracy of feature set {2, 6} is 83.8%
+Consider adding feature 7
+Accuracy of feature set {2, 7} is 83.1%
+Consider adding feature 8
+Accuracy of feature set {2, 8} is 86.7%
+Consider adding feature 9
+Accuracy of feature set {2, 9} is 95.4%
+Consider adding feature 10
+Accuracy of feature set {2, 10} is 87.1%
+Added feature 9 to the current feature set
+Current feature set: {2, 9}
+Accuracy: 95.4%
+
+Currently on search tree level 3
+Consider adding feature 1
+Accuracy of feature set {2, 9, 1} is 89.7%
+Consider adding feature 3
+Accuracy of feature set {2, 9, 3} is 91.1%
+Consider adding feature 4
+Accuracy of feature set {2, 9, 4} is 89.7%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 5} is 89.4%
+Consider adding feature 6
+Accuracy of feature set {2, 9, 6} is 86.3%
+Consider adding feature 7
+Accuracy of feature set {2, 9, 7} is 90.7%
+Consider adding feature 8
+Accuracy of feature set {2, 9, 8} is 92.7%
+Consider adding feature 10
+Accuracy of feature set {2, 9, 10} is 91.7%
+Added feature 8 to the current feature set
+Current feature set: {2, 9, 8}
+Accuracy: 92.7%
+
+Currently on search tree level 4
+Consider adding feature 1
+Accuracy of feature set {2, 9, 8, 1} is 87.1%
+Consider adding feature 3
+Accuracy of feature set {2, 9, 8, 3} is 87.8%
+Consider adding feature 4
+Accuracy of feature set {2, 9, 8, 4} is 86%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 5} is 86.4%
+Consider adding feature 6
+Accuracy of feature set {2, 9, 8, 6} is 87%
+Consider adding feature 7
+Accuracy of feature set {2, 9, 8, 7} is 85%
+Consider adding feature 10
+Accuracy of feature set {2, 9, 8, 10} is 84.1%
+Added feature 3 to the current feature set
+Current feature set: {2, 9, 8, 3}
+Accuracy: 87.8%
+
+Currently on search tree level 5
+Consider adding feature 1
+Accuracy of feature set {2, 9, 8, 3, 1} is 81.8%
+Consider adding feature 4
+Accuracy of feature set {2, 9, 8, 3, 4} is 80.7%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 3, 5} is 80.1%
+Consider adding feature 6
+Accuracy of feature set {2, 9, 8, 3, 6} is 82.5%
+Consider adding feature 7
+Accuracy of feature set {2, 9, 8, 3, 7} is 82%
+Consider adding feature 10
+Accuracy of feature set {2, 9, 8, 3, 10} is 82.4%
+Added feature 6 to the current feature set
+Current feature set: {2, 9, 8, 3, 6}
+Accuracy: 82.5%
+
+Currently on search tree level 6
+Consider adding feature 1
+Accuracy of feature set {2, 9, 8, 3, 6, 1} is 75.9%
+Consider adding feature 4
+Accuracy of feature set {2, 9, 8, 3, 6, 4} is 79.8%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 3, 6, 5} is 75.4%
+Consider adding feature 7
+Accuracy of feature set {2, 9, 8, 3, 6, 7} is 75.7%
+Consider adding feature 10
+Accuracy of feature set {2, 9, 8, 3, 6, 10} is 78%
+Added feature 4 to the current feature set
+Current feature set: {2, 9, 8, 3, 6, 4}
+Accuracy: 79.8%
+
+Currently on search tree level 7
+Consider adding feature 1
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 1} is 75.8%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 5} is 75.7%
+Consider adding feature 7
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7} is 79.2%
+Consider adding feature 10
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 10} is 77.1%
+Added feature 7 to the current feature set
+Current feature set: {2, 9, 8, 3, 6, 4, 7}
+Accuracy: 79.2%
+
+Currently on search tree level 8
+Consider adding feature 1
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7, 1} is 73.8%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7, 5} is 73.7%
+Consider adding feature 10
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7, 10} is 76.2%
+Added feature 10 to the current feature set
+Current feature set: {2, 9, 8, 3, 6, 4, 7, 10}
+Accuracy: 76.2%
+
+Currently on search tree level 9
+Consider adding feature 1
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7, 10, 1} is 73.4%
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7, 10, 5} is 69.3%
+Added feature 1 to the current feature set
+Current feature set: {2, 9, 8, 3, 6, 4, 7, 10, 1}
+Accuracy: 73.4%
+
+Currently on search tree level 10
+Consider adding feature 5
+Accuracy of feature set {2, 9, 8, 3, 6, 4, 7, 10, 1, 5} is 72.1%
+Added feature 5 to the current feature set
+Current feature set: {2, 9, 8, 3, 6, 4, 7, 10, 1, 5}
+Accuracy: 72.1%
+

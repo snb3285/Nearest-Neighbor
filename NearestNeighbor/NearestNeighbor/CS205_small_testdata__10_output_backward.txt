@@ -1,0 +1,163 @@
+Current feature set: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+Accuracy: 72.1%
+
+Currently on search tree level 1
+Consider removing feature 1
+Accuracy of feature set {2, 3, 4, 5, 6, 7, 8, 9, 10} is 69.3%
+Consider removing feature 2
+Accuracy of feature set {1, 3, 4, 5, 6, 7, 8, 9, 10} is 70.5%
+Consider removing feature 3
+Accuracy of feature set {1, 2, 4, 5, 6, 7, 8, 9, 10} is 70.9%
+Consider removing feature 4
+Accuracy of feature set {1, 2, 3, 5, 6, 7, 8, 9, 10} is 75.8%
+Consider removing feature 5
+Accuracy of feature set {1, 2, 3, 4, 6, 7, 8, 9, 10} is 73.4%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 3, 4, 5, 7, 8, 9, 10} is 74.8%
+Consider removing feature 7
+Accuracy of feature set {1, 2, 3, 4, 5, 6, 8, 9, 10} is 71.7%
+Consider removing feature 8
+Accuracy of feature set {1, 2, 3, 4, 5, 6, 7, 9, 10} is 74.5%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 3, 4, 5, 6, 7, 8, 10} is 70.4%
+Consider removing feature 10
+Accuracy of feature set {1, 2, 3, 4, 5, 6, 7, 8, 9} is 71.7%
+Removed feature 4 from the current feature set
+Current feature set: {1, 2, 3, 5, 6, 7, 8, 9, 10}
+Accuracy: 75.8%
+
+Currently on search tree level 2
+Consider removing feature 1
+Accuracy of feature set {2, 3, 5, 6, 7, 8, 9, 10} is 72%
+Consider removing feature 2
+Accuracy of feature set {1, 3, 5, 6, 7, 8, 9, 10} is 68.9%
+Consider removing feature 3
+Accuracy of feature set {1, 2, 5, 6, 7, 8, 9, 10} is 73.6%
+Consider removing feature 5
+Accuracy of feature set {1, 2, 3, 6, 7, 8, 9, 10} is 74.5%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 3, 5, 7, 8, 9, 10} is 75.1%
+Consider removing feature 7
+Accuracy of feature set {1, 2, 3, 5, 6, 8, 9, 10} is 72.1%
+Consider removing feature 8
+Accuracy of feature set {1, 2, 3, 5, 6, 7, 9, 10} is 78.2%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 3, 5, 6, 7, 8, 10} is 71.4%
+Consider removing feature 10
+Accuracy of feature set {1, 2, 3, 5, 6, 7, 8, 9} is 75.4%
+Removed feature 8 from the current feature set
+Current feature set: {1, 2, 3, 5, 6, 7, 9, 10}
+Accuracy: 78.2%
+
+Currently on search tree level 3
+Consider removing feature 1
+Accuracy of feature set {2, 3, 5, 6, 7, 9, 10} is 76.8%
+Consider removing feature 2
+Accuracy of feature set {1, 3, 5, 6, 7, 9, 10} is 73.4%
+Consider removing feature 3
+Accuracy of feature set {1, 2, 5, 6, 7, 9, 10} is 77.4%
+Consider removing feature 5
+Accuracy of feature set {1, 2, 3, 6, 7, 9, 10} is 76.1%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 3, 5, 7, 9, 10} is 75.5%
+Consider removing feature 7
+Accuracy of feature set {1, 2, 3, 5, 6, 9, 10} is 74.5%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 3, 5, 6, 7, 10} is 76.1%
+Consider removing feature 10
+Accuracy of feature set {1, 2, 3, 5, 6, 7, 9} is 78.2%
+Removed feature 10 from the current feature set
+Current feature set: {1, 2, 3, 5, 6, 7, 9}
+Accuracy: 78.2%
+
+Currently on search tree level 4
+Consider removing feature 1
+Accuracy of feature set {2, 3, 5, 6, 7, 9} is 74.1%
+Consider removing feature 2
+Accuracy of feature set {1, 3, 5, 6, 7, 9} is 71.1%
+Consider removing feature 3
+Accuracy of feature set {1, 2, 5, 6, 7, 9} is 79.5%
+Consider removing feature 5
+Accuracy of feature set {1, 2, 3, 6, 7, 9} is 75.8%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 3, 5, 7, 9} is 78.1%
+Consider removing feature 7
+Accuracy of feature set {1, 2, 3, 5, 6, 9} is 77.7%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 3, 5, 6, 7} is 74.1%
+Removed feature 3 from the current feature set
+Current feature set: {1, 2, 5, 6, 7, 9}
+Accuracy: 79.5%
+
+Currently on search tree level 5
+Consider removing feature 1
+Accuracy of feature set {2, 5, 6, 7, 9} is 79.4%
+Consider removing feature 2
+Accuracy of feature set {1, 5, 6, 7, 9} is 68.4%
+Consider removing feature 5
+Accuracy of feature set {1, 2, 6, 7, 9} is 81.5%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 5, 7, 9} is 80.8%
+Consider removing feature 7
+Accuracy of feature set {1, 2, 5, 6, 9} is 81.5%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 5, 6, 7} is 74.7%
+Removed feature 5 from the current feature set
+Current feature set: {1, 2, 6, 7, 9}
+Accuracy: 81.5%
+
+Currently on search tree level 6
+Consider removing feature 1
+Accuracy of feature set {2, 6, 7, 9} is 85.2%
+Consider removing feature 2
+Accuracy of feature set {1, 6, 7, 9} is 69.8%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 7, 9} is 84.5%
+Consider removing feature 7
+Accuracy of feature set {1, 2, 6, 9} is 86.8%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 6, 7} is 77.1%
+Removed feature 7 from the current feature set
+Current feature set: {1, 2, 6, 9}
+Accuracy: 86.8%
+
+Currently on search tree level 7
+Consider removing feature 1
+Accuracy of feature set {2, 6, 9} is 86.3%
+Consider removing feature 2
+Accuracy of feature set {1, 6, 9} is 73.5%
+Consider removing feature 6
+Accuracy of feature set {1, 2, 9} is 89.7%
+Consider removing feature 9
+Accuracy of feature set {1, 2, 6} is 80.1%
+Removed feature 6 from the current feature set
+Current feature set: {1, 2, 9}
+Accuracy: 89.7%
+
+Currently on search tree level 8
+Consider removing feature 1
+Accuracy of feature set {2, 9} is 95.4%
+Consider removing feature 2
+Accuracy of feature set {1, 9} is 73.1%
+Consider removing feature 9
+Accuracy of feature set {1, 2} is 86.1%
+Removed feature 1 from the current feature set
+Current feature set: {2, 9}
+Accuracy: 95.4%
+
+Currently on search tree level 9
+Consider removing feature 2
+Accuracy of feature set {9} is 67.1%
+Consider removing feature 9
+Accuracy of feature set {2} is 83%
+Removed feature 9 from the current feature set
+Current feature set: {2}
+Accuracy: 83%
+
+Currently on search tree level 10
+Consider removing feature 2
+Accuracy of feature set {} is 18.4%
+Removed feature 2 from the current feature set
+Current feature set: {}
+Accuracy: 18.4%
+

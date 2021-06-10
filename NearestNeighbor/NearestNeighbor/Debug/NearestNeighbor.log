@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  NearestNeighbor.cpp
+C:\henry\UCR\2020-2021\CS205\Project\Nearest-Neighbor\NearestNeighbor\NearestNeighbor\NearestNeighbor.cpp(41,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\henry\UCR\2020-2021\CS205\Project\Nearest-Neighbor\NearestNeighbor\NearestNeighbor\NearestNeighbor.cpp(76,43): warning C4056: overflow in floating-point constant arithmetic
+C:\henry\UCR\2020-2021\CS205\Project\Nearest-Neighbor\NearestNeighbor\NearestNeighbor\NearestNeighbor.cpp(79,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+C:\henry\UCR\2020-2021\CS205\Project\Nearest-Neighbor\NearestNeighbor\NearestNeighbor\NearestNeighbor.cpp(93,53): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  NearestNeighbor.vcxproj -> C:\henry\UCR\2020-2021\CS205\Project\Nearest-Neighbor\NearestNeighbor\Debug\NearestNeighbor.exe
